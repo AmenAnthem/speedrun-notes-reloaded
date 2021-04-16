@@ -3,3 +3,6 @@
 
 # Guides
 - [Character Tier List](guides/character-tier-list.md)
+
+# Others
+- [Marathon Notes](others/marathon-notes.md)
