@@ -1,3 +1,8 @@
+---
+title: Any% 1 Player
+author: AmenAnthem
+---
+
 # General Notes
 - Best Character: Sister Magpie
 - start on loading screen skips mission info
