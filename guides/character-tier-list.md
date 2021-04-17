@@ -1,3 +1,8 @@
+---
+title: Character Tier List
+author: AmenAnthem
+---
+
 # Introduction
 This tier list reflects the results of some tests I did on all the playable characters, including the via cheat code unlockable character Fwank.
 To have an easy time to get the overall score I used the austrian grading system, which has grades from 1 to 5, whereas 1 is the best and 5 is the worst. The overall score determines the characters overall viability for speedruns.

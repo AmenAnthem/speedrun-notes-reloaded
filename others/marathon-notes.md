@@ -1,5 +1,10 @@
+---
+title: Marathon Notes
+author: ChristoWolf
+---
+
 # Introduction
-Amen is running the game and currently the only one dooing so, and I'll try to give you some insights.
+Amen is running the game and currently the only one doing so, and I'll try to give you some insights.
 Some might remember this game, but likely only a few will do so in a fond way.
 We are twin brothers who have quite a bit of nostalgia for it, because it was one of only a few games featuring a 2-player co-op story mode on the original Playstation.
 
@@ -24,14 +29,14 @@ We are twin brothers who have quite a bit of nostalgia for it, because it was on
 
 ## Options
 There are a few options to set to save some time during the run:
-- Increase lives: Running out of lives uses up a continue. Each use of a continue wastes about 2 seconds.
-- Using a live wastes about 4 seconds.
+- Increase lives: Running out of lives uses up a continue. Each use of a continue wastes about 2 additional seconds to using a life.
+- Using a life wastes about 3 seconds.
 - Lower difficulty: Lowers enemy damage => lowers use of lives => lowers use of continues.
 - Rest is kept as-is.
 
 ## Character choice
 - Sister Magpie is top-tier, see [character tier list](../guides/character-tier-list.md).
-- Most important stats are Weapon DPS and movement speed, both of which are top tier for her.
+- Most important stats are weapon DPS and movement speed, both of which are top tier for her.
 
 # Actual run
 Intro cutscene and mission briefing are skipped.
@@ -69,7 +74,7 @@ Intro cutscene and mission briefing are skipped.
 - The rooftop bridges are quite finicky.
 
 ## Foundry
-- Mutiple death abuses are used to skip portions of the level.
+- Multiple death abuses are used to skip portions of the level.
 - Namely, dying on burning ground (and dying in general) makes one invincible for about 4 seconds. During that time, burning ground can be skipped.
 - There are again a few key items required for reaching a boss.
 - The first death abuse saves about half a minute.
@@ -102,7 +107,7 @@ Intro cutscene and mission briefing are skipped.
 - These also need to be destroyed.
 - Then, a submarine submerges in the center of the level which also needs to be destroyed.
 - Correctly positioning the player character on the platform clips them onto the submarine. This marks the player character as OOB, so that the jetpack enemies cannot target them (they deal crazy damage).
-- Any minor movement throws them off again thow.
+- Any minor movement throws them off again though.
 - Another OOB can be provoked then by standing close to the edge of the northern platform and getting knocked back by the submarine's bullets.
 
 ## Tropics
@@ -118,7 +123,7 @@ Intro cutscene and mission briefing are skipped.
 ## Cheb
 - The final level. It requires one to gather multiple bombs and place them in 5 of Cheb's orifices.
 - However, the bombs have a tendency to disappear out of the blue.
-- Gathering the bombs is of course route-optimized, but a redundant one is usually included as a backup strat.
+- Gathering the bombs is of course route-optimized, but a redundant one is usually included as a backup.
 - By the way, we are in space now and shrunken, good stuff.
 - The level is finished upon entering the space ship.
 

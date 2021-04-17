@@ -1,3 +1,8 @@
+---
+title: Index
+author: AmenAnthem
+---
+
 # Routes
 - [Any% 1 Player](routes/any-percent-1player.md)
 
